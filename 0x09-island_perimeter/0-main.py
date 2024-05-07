@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 """
 0-main
@@ -13,3 +14,4 @@ if __name__ == "__main__":
         [0, 0, 0, 0, 0, 0]
     ]
     print(island_perimeter(grid))
+
